@@ -1,4 +1,4 @@
-ActiveAdmin.register_page "Reports" do
+ActiveAdmin.register_page "Relatórios" do
   content do
     render 'reports'
   end

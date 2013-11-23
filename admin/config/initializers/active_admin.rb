@@ -42,7 +42,7 @@ ActiveAdmin.setup do |config|
   #
     config.namespace :admin do |admin|
       admin.build_menu do |menu|
-        menu.add :label => "Expenses Menu", :priority => 1
+        menu.add :label => "Gastos", :priority => 1
       end
     end
   #

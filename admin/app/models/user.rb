@@ -6,7 +6,7 @@ class User < ActiveRecord::Base
 
   has_many :expenses
 
-  def to_s
-     email
-  end
+  # def to_s
+  #   "#{name}"
+  # end
 end

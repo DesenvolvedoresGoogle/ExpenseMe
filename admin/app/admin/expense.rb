@@ -1,6 +1,6 @@
 ActiveAdmin.register Expense do
 
-  menu :parent => "Expenses Menu"
+  menu :parent => "Gastos"
 
   filter :date
   filter :user

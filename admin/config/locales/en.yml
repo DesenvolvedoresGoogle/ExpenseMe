@@ -20,4 +20,11 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  activerecord:
+    models:
+      expense: Gasto
+      expense_group: Grupo
+      expense_category: Categoria
+      project: Projeto
+      admin_user: Administrador
+      user: Usuário
