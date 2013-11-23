@@ -1,0 +1,18 @@
+development:
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: 1q2w3e
+  database: expenseme-dev
+
+test:
+  adapter: postgresql
+  username: postgres
+  password: 1q2w3e
+  database: expenseme-test
+
+production:
+  adapter: postgresql
+  host: localhost
+  username: root
+  database: expenseme-prod
